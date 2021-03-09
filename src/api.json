@@ -1,0 +1,74 @@
+[
+    { "ID":"1", 
+      "image":"images/lake-inniscarra-thumb.jpg",
+      "text": "Lake Inniscarra, Ireland-- Pyramid",
+      "trainer": "images/lake-inniscarra-trainer.jpg",
+      "time": "30:53",
+      "distance": "6,248 M",
+      "workouts": ""
+
+   },
+   { "ID":"2", 
+       "image":"images/performance-series-thumb.jpg",
+       "text": "Performance Series",
+       "trainer": "images/performance-series-trainer.jpg",
+       "time": "",
+       "distance": "",
+       "workouts": "9"
+
+    },
+    { "ID":"3", 
+       "image":"images/slow-pulls-thumb.jpg",
+       "text": "Slow Pulls and Fast Intervals",
+       "trainer": "images/slow-pulls-trainer.jpg",
+       "time": "44:13",
+       "distance": "9,948 M",
+       "workouts": ""
+
+    },
+    { "ID":"4", 
+       "image":"images/20-minutes-to-toned-thumb.jpg",
+       "text": "20 Minutes to Toned",
+       "trainer": "images/20-minutes-to-toned-trainer.jpg",
+       "time": "",
+       "distance": "",
+       "workouts": "12"
+
+    },
+    { "ID":"5", 
+       "image":"images/charles-race-thumb.jpg",
+       "text": "Charles Race, Boston, Massachusetts",
+       "trainer": "images/charles-race-trainer.jpg",
+       "time": "36:22",
+       "distance": "8,648 M",
+       "workouts": ""
+
+    },
+    { "ID":"6", 
+       "image":"images/full-body-hiit-thumb.jpg",
+       "text": "Full-Body HIIT Series",
+       "trainer": "images/full-body-hiit-trainer.jpg",
+       "time": "",
+       "distance": "",
+       "workouts": "12"
+
+    },
+    { "ID":"7", 
+       "image":"images/kafue-river-thumb.jpg",
+       "text": "Kafue River, Zambia-- Power Stroke Pyramid",
+       "trainer": "images/kafue-river-trainer.jpg",
+       "time": "22:22",
+       "distance": "4,660 M",
+       "workouts": ""
+
+    },
+    { "ID":"8", 
+       "image":"images/shred-and-burn-thumb.jpg",
+       "text": "Shed & Burn Series",
+       "trainer": "images/shred-and-burn-trainer.jpg",
+       "time": "30:53",
+       "distance": "6,248 M",
+       "workouts": "16"
+
+    }
+]

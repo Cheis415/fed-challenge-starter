@@ -1,0 +1,108 @@
+.selected {
+    border-radius: 3px;
+    box-shadow:  5px 5px 10px #888888;
+    margin: 2.5px;
+    position: relative;
+    width: 100%;
+    height: auto;
+}
+
+.unselected {
+    border-radius: 3px;
+    box-shadow:  1px 1px 2px #888888;
+    margin: 2.5px;
+    position: relative;
+    width: 100%;
+    height: auto;
+}
+
+.overlay {
+    opacity: .7;
+    z-index: 50;
+    top: 0;
+    bottom: 0;
+    left: 61%;
+    right: 0;
+    text-align: center;
+    position: absolute;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.589);
+}
+.number {
+    height: auto;
+    margin: 20px 0 0 0;
+}
+
+.workouts {
+    font-size: .75vw;
+    font-weight: bold;
+    height: auto;
+}
+
+.image {
+    position: relative;
+    width: 100%;
+    height: 60%;
+}
+
+
+.thumb {
+    border-radius: 3px 3px 0 0;
+    width: 100%;
+    height: 100%; 
+}
+
+.thumbs{
+    width: 100%;
+    height: 60%;  
+}
+
+.trainer-pic {
+    padding-right: 5px;
+    justify-self: end;
+    height: 15px;
+    margin-top: 5px;
+    width: 15px;
+}
+
+.span {
+    margin-top: 0;
+    display: grid;
+    grid-template-columns: auto auto;
+    width: 100%;
+}
+
+.text {
+    display: inline-flex;
+    padding-left: 5px;
+    margin-top: 5px;
+    text-align: start;
+    justify-content: start;
+    font-size: .5ch;
+    font-weight: bold;
+    width: 75%;
+    height: auto
+}
+
+
+.time {
+    border: none;
+    font-weight: 400;
+    height: auto;
+    padding-left: 5px;
+    margin: 2px 0 2px 0;
+    text-align: start;
+    font-size: 7px;
+}
+
+.details {
+    height: auto;
+    justify-self: left ;
+    margin: 2px 0 2px 0;
+    font-size: .4ch;
+    padding-left: 5px;
+    font-weight: 550;
+    color: rgb(48, 167, 246);
+    cursor: pointer;
+
+}
